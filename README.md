@@ -1,1 +1,1 @@
-# stepin-electronic-voting
+# stepin-election/voting
