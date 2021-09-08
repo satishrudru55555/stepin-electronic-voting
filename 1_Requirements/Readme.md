@@ -4,7 +4,6 @@
 Basic project which can be used to elect candidates from given list and shows the output.
 
 Research:
-
 ![](RackMultipart20210907-4-1kyg6ky_html_14390967f3d8219f.jpg)
 
 Election is the process of people can choose their candidate. Elections are used in different sectors like political, Movie industry ,In offices Etc.
